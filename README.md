@@ -9,6 +9,8 @@
 <img width="176" alt="image" src="https://github.com/snigdhasuram/HandsOn8/assets/156977256/ff028212-1c4b-4497-9372-a123f226296c">
 
 ## queue
+<img width="262" alt="image" src="https://github.com/snigdhasuram/HandsOn8/assets/156977256/77d9b579-f1c1-44a7-b88f-1cc71d372668"><br>
+<img width="244" alt="image" src="https://github.com/snigdhasuram/HandsOn8/assets/156977256/9eb924d3-6594-448b-a040-b16ca14a93db">
 
 ## singly linked list
 <img width="251" alt="image" src="https://github.com/snigdhasuram/HandsOn8/assets/156977256/a96cfd12-ccb2-43b7-964c-14e034de2db7"> <br>
